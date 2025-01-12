@@ -68,5 +68,6 @@ header ul {
 
 li {
   margin: 0 0.5rem;
+  width: max-content;
 }
 </style>
